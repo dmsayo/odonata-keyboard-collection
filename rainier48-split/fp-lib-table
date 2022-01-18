@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name corne-classic)(type KiCad)(uri "C:/Users/derry/OneDrive/Desktop/KiCad Footprints/corne-classic.pretty")(options "")(descr ""))
+  (lib (name lily58)(type KiCad)(uri "C:/Users/derry/OneDrive/Desktop/KiCad Footprints/lily58.pretty")(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri "C:/Users/derry/OneDrive/Desktop/KiCad Footprints/keyswitches.pretty-master")(options "")(descr ""))
+  (lib (name for-science)(type KiCad)(uri "C:/Users/derry/OneDrive/Desktop/KiCad Footprints/for-science.pretty")(options "")(descr ""))
+  (lib (name corne-cherry_v2)(type KiCad)(uri "C:/Users/derry/OneDrive/Desktop/KiCad Footprints/corne-cherry_v2.pretty")(options "")(descr ""))
+  (lib (name custom)(type KiCad)(uri "C:/Users/derry/OneDrive/Desktop/KiCad Footprints/custom.pretty")(options "")(descr ""))
+)
