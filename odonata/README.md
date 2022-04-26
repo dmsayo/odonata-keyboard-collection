@@ -1,6 +1,6 @@
-# The Rainier48 Keyboard
+# The Odonata Keyboard
 
-The Rainier48 is an ergonomic 4x12, 48 key unibody ergonomic keyboard powered by QMK.
+The Odonata is an ergonomic 4x12, 48 key unibody ergonomic keyboard powered by QMK with Vial support
 
 
 ## Rationale
@@ -11,6 +11,7 @@ Having experience typing on both a Planck and a Redox, this keyboard aims to com
 - [x] USB-C
 - [x] Fully Programmable using QMK
 - [x] Stacked Acrylic Keyboard Case
+- [x] Vial Support
 
 ## Parts List
 - TBD
