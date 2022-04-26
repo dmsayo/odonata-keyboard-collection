@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID   0x0000
 #define DEVICE_VER   0x0001
 #define MANUFACTURER dsayo
-#define PRODUCT      rainier48_split
+#define PRODUCT      odonata_split
 
 /* key matrix size */
 
@@ -98,7 +98,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * power-up.
  *
  */
-//#define FORCE_NKRO
+#define FORCE_NKRO
 
 /*
  * Feature disable options
