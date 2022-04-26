@@ -2,10 +2,10 @@
 
 #pragma once
 
-#define VIAL_KEYBOARD_UID {0x69, 0x8F, 0xBD, 0x34, 0xE9, 0x24, 0x75, 0x09}
+#define VIAL_KEYBOARD_UID {0xCB, 0x3F, 0x04, 0x11, 0x5C, 0xA3, 0xAB, 0x11}
 
-#define VIAL_UNLOCK_COMBO_ROWS { 1, 0 }
+#define VIAL_UNLOCK_COMBO_ROWS { 1, 1 }
 
-#define VIAL_UNLOCK_COMBO_COLS { 1, 11 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 11 }
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
