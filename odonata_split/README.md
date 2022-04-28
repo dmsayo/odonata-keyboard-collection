@@ -1,6 +1,6 @@
 # The Odonata_Split Keyboard
 
-The Odonata_split is an ergonomic 4x6 (x2), 48 key split ergonomic keyboard powered by QMK.
+The Odonata_split is an ergonomic 4x6 (x2), 48 key split ergonomic keyboard powered by QMK with Vial support.
 
 ## Rationale
 Evolving from the original Odonata keyboard, this split variant takes the comfortable yet practical format of the original and allows for a wider range of motion to accomodate for a more ergonomic experience.

@@ -4,7 +4,7 @@ The Odonata design is an ergonomic 4x12, 48 key keyboard powered by QMK in both 
 
 ## The Lineup
 - The Odonata - The original unibody design using Cherry MX switches
-- The Odonata_Split - The split variant using Cherry MX switches
+- The Odonata-Split - The split variant using Cherry MX switches
 
 ## Tools and Services Used
 - KiCad for PCB design

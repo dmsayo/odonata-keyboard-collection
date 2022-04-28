@@ -1,1 +1,1 @@
-# The default keymap for the odonata split keyboard
+# The default keymap for the Odonata-Split keyboard
