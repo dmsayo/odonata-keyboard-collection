@@ -14,6 +14,7 @@ The Odonata design is an ergonomic 4x12, 48 key keyboard powered by QMK in both 
 
 ## Wonderful Resources Used
 - [QMK Documentation](https://docs.qmk.fm/#/)
+- [Vial QMK Configurator](https://get.vial.today/)
 - PCB design articles:
     - [Masterzen's keyboard pcb design blog](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/) 
     - [ai03's keyboard pcb design tutorial](https://wiki.ai03.com/books/pcb-design/page/pcb-guide-part-1---preparations)
